@@ -75,7 +75,7 @@ void insert(char biglist[][WORDSIZE], char* buffer, int idx)
    }         
 } 
 
-// Interpolation Search
+// Interpolation search
 int interp(char k[WORDSIZE], char arr[][WORDSIZE], int l, int r)
 {
    int m;
